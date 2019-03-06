@@ -1,4 +1,4 @@
-//# random-int [![Build Status](https://travis-ci.org/sindresorhus/random-int.svg?branch=master)](https://travis-ci.org/sindresorhus/random-int)
+# random-unified [![Build Status](https://travis-ci.org/startergate/random-unified.svg?branch=master)](https://travis-ci.org/sindresorhus/random-int)
 
 > Generate/Get something random
 
