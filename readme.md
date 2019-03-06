@@ -1,6 +1,8 @@
-# random-int [![Build Status](https://travis-ci.org/sindresorhus/random-int.svg?branch=master)](https://travis-ci.org/sindresorhus/random-int)
+//# random-int [![Build Status](https://travis-ci.org/sindresorhus/random-int.svg?branch=master)](https://travis-ci.org/sindresorhus/random-int)
 
-> Generate a random integer
+> Generate/Get something random
+
+fork of sindresorhus/random-int, sindresorhus/random-float, sindresorhus/random-item, sindresorhus/random-obj-key, sindresorhus/random-obj-prop, sindresorhus/unique-random, sindresorhus/unique-random-array, sindresorhus/crypto-random-string
 
 
 ## Install
@@ -13,7 +15,7 @@ $ npm install --save random-int
 ## Usage
 
 ```js
-var randomInt = require('random-int');
+var random = require('random-unified');
 
 randomInt(5);
 //=> 3
