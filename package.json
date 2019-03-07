@@ -1,6 +1,6 @@
 {
   "name": "random-unified",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Generate something random",
   "license": "MIT",
   "repository": "startergate/random-unified",
@@ -9,11 +9,13 @@
     "email": "sindresorhus@gmail.com",
     "url": "sindresorhus.com"
   },
-  "contributors": [{
-    "name" : "startergate",
-    "email" : "startergate36@gmail.com",
-    "url" : "http://startergate.github.com/"
-  }],
+  "contributors": [
+    {
+      "name": "startergate",
+      "email": "startergate36@gmail.com",
+      "url": "http://startergate.github.com/"
+    }
+  ],
   "engines": {
     "node": ">=0.10.0"
   },
