@@ -17,10 +17,10 @@
     }
   ],
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=8.15.0"
   },
   "scripts": {
-    "test": "ava"
+    "test": "node index.js"
   },
   "files": [
     "index.js"
