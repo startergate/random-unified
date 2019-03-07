@@ -1,6 +1,6 @@
 # random-unified [![Build Status](https://travis-ci.org/startergate/random-unified.svg?branch=master)](https://travis-ci.org/startergate/random-unified)
 
-> Generate/Get something random
+> Generate/Get something random. Unified version of sindresorhus's random packages.
 
 fork of
  * sindresorhus/random-int
