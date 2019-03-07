@@ -2,7 +2,15 @@
 
 > Generate/Get something random
 
-fork of sindresorhus/random-int, sindresorhus/random-float, sindresorhus/random-item, sindresorhus/random-obj-key, sindresorhus/random-obj-prop, sindresorhus/unique-random, sindresorhus/unique-random-array, sindresorhus/crypto-random-string
+fork of
+ * sindresorhus/random-int
+ * sindresorhus/random-float
+ * sindresorhus/random-item
+ * sindresorhus/random-obj-key
+ * sindresorhus/random-obj-prop
+ * sindresorhus/unique-random
+ * sindresorhus/unique-random-array
+ * sindresorhus/crypto-random-string
 
 
 ## Install
