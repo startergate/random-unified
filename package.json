@@ -1,7 +1,7 @@
 {
-  "name": "random-int",
+  "name": "random-unified",
   "version": "1.0.0",
-  "description": "Generate a random integer",
+  "description": "Generate something random",
   "license": "MIT",
   "repository": "sindresorhus/random-int",
   "author": {
@@ -9,6 +9,11 @@
     "email": "sindresorhus@gmail.com",
     "url": "sindresorhus.com"
   },
+  "contributors": [{
+    "name" : "startergate",
+    "email" : "startergate36@gmail.com",
+    "url" : "http://startergate.github.com/"
+  }],
   "engines": {
     "node": ">=0.10.0"
   },
@@ -24,6 +29,13 @@
     "randomize",
     "int",
     "integer",
+    "float",
+    "floating",
+    "array",
+    "boolean",
+    "object",
+    "unique",
+    "crypto",
     "num",
     "number",
     "max",
@@ -32,11 +44,5 @@
     "gen",
     "generate",
     "generator"
-  ],
-  "devDependencies": {
-    "ava": "*",
-    "in-range": "^1.0.0",
-    "number-is-integer": "^1.0.0",
-    "stable-fn": "^1.0.0"
-  }
+  ]
 }
