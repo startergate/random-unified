@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Generate something random",
   "license": "MIT",
-  "repository": "sindresorhus/random-int",
+  "repository": "startergate/random-unified",
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
