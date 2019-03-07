@@ -1,4 +1,4 @@
-# random-unified [![Build Status](https://travis-ci.org/startergate/random-unified.svg?branch=master)](https://travis-ci.org/sindresorhus/random-int)
+# random-unified [![Build Status](https://travis-ci.org/startergate/random-unified.svg?branch=master)](https://travis-ci.org/startergate/random-unified)
 
 > Generate/Get something random
 
@@ -25,10 +25,10 @@ $ npm install --save random-int
 ```js
 var random = require('random-unified');
 
-randomInt(5);
+random.int(5);
 //=> 3
 
-randomInt(10, 100);
+random.int(10, 100);
 //=> 54
 ```
 
