@@ -16,7 +16,7 @@ fork of
 ## Install
 
 ```
-$ npm install --save random-int
+$ npm install --save random-unified
 ```
 
 
