@@ -16,7 +16,7 @@ fork of
 ## Install
 
 ```
-$ npm install --save random-unified
+$ npm install random-unified
 ```
 
 
