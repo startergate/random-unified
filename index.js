@@ -1,4 +1,5 @@
 'use strict';
+const cryptoM = require('crypto');
 
 class RandomU {
 	int(min, max) {
@@ -68,7 +69,7 @@ class RandomU {
 			throw new TypeError('Expected a finite number');
 		}
 
-		return crypto.randomBytes(Math.ceil(len / 2)).toString('hex').slice(0, len);
+		return cryptoM.randomBytes(Math.ceil(len / 2)).toString('hex').slice(0, len);
 	};
 }
 
